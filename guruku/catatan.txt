@@ -1,0 +1,13 @@
+1.Guru Honorer (GH)
+
+2.Guru PNS (Pegawai Negeri Sipil)
+
+3.Guru GTT (Guru Tidak Tetap) 
+
+4.Guru GTK (Guru dengan Tugas Khusus)
+
+5.Guru Kontrak
+
+6.Guru Dosen
+
+7.Guru Swasta
